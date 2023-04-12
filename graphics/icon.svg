@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1453"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1455"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79765502"
+     inkscape:cx="-30.715033"
+     inkscape:cy="164.85824"
+     inkscape:window-width="1800"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1450">
+    <rect
+       x="11.219834"
+       y="157.07768"
+       width="522.84424"
+       height="527.33215"
+       id="rect533-0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text531-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:0.9em;font-family:Exo;-inkscape-font-specification:'Exo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect533-0);display:inline;opacity:1;mix-blend-mode:screen;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.571688;paint-order:markers stroke fill;image-rendering:auto"
+       dx="0 0 0 0 0 -67.319008"
+       x="694.80774"
+       y="0"
+       transform="translate(-8.6523487,-55.728002)"><tspan
+         x="11.220703"
+         y="241.55216"
+         id="tspan1419"><tspan
+           style="font-style:italic;font-weight:500;-inkscape-font-specification:'Exo Medium Italic';text-align:justify"
+           id="tspan1417">open
+</tspan></tspan><tspan
+         x="11.220703"
+         y="349.55216"
+         id="tspan1423"><tspan
+           style="font-style:italic;font-weight:100;-inkscape-font-specification:'Exo Thin Italic';text-align:justify"
+           id="tspan1421">socialism
+</tspan></tspan><tspan
+         x="11.220703"
+         y="457.55216"
+         id="tspan1427"><tspan
+           style="font-style:italic;font-weight:200;-inkscape-font-specification:'Exo Ultra-Light Italic'"
+           id="tspan1425">net</tspan></tspan></text>
+  </g>
+</svg>
